@@ -1,9 +1,9 @@
 {
-  "name": "raphael",
+  "name": "g.raphael",
   "version": "0.5.0",
   "main": "g.raphael.js",
   "ignore": [
-    "**/.*",
+    "**/*",
     "*.html",
     "*.json",
     "*.md",
